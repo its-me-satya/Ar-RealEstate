@@ -12,7 +12,7 @@ Showing Augmented Reality in the various field of Real estate. Using Edge Detect
 * 🔭 I’m currently exploring Ar using Unity3D<br/>
 * 👇 Check Out the Demo Ar-RealEstate App and Scan the Image To Expierence Ar-RealEstate<br/><br/>[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://ln5.sync.com/dl/0552a8470/uw6t64jh-4gsuimn4-b96u8vbp-sk9cvijz)
 
-    <img src="https://github.com/its-me-satya/Ar-RealEstate/blob/main/ar.gif" width="128" height="128">
+    <img src="https://github.com/its-me-satya/Ar-RealEstate/blob/main/blueprint1.png">
 
 
 
