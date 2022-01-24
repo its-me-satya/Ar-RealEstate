@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello fellow geeks 👋</h1>
 
 <p align="center">
-  ![test image size]<img src="https://fullpath/assets/yourgif.gif" width="512" height="512" align="center">
+  <img src="https://github.com/its-me-satya/Ar-RealEstate/blob/main/ar.gif" width="512" height="512"">
   <a href="mailto:anneraj73@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/annedeepa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
